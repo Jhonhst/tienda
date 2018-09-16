@@ -1,0 +1,21 @@
+
+img{
+    height: 100%;
+    width: 100%; 
+}
+.bordes {
+    width: 100%; 
+    background-size: cover;
+    box-shadow:0 0  10px rgba(7,7,7,.7);
+    min-height: 198px;
+}
+
+.bordes  {
+    border-style: none;
+    vertical-align: middle;
+}
+
+.imagenpro{
+    width: 100px;
+    height: 100px;
+}
